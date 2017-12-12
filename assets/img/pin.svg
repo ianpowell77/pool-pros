@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>location icon rasterized</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="21" y="15" width="12" height="16" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1198.000000, -87.000000)">
+            <g id="header/navigation" transform="translate(-99.000000, -1.000000)">
+                <g id="Find-a-Pool-Pro-BTN" transform="translate(1276.000000, 73.000000)">
+                    <g id="location-icon-rasterized">
+                        <image x="21" y="15" width="12" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAABcmlDQ1BJQ0MgUHJvZmlsZQAAKJF9kE0rRGEUx38ziMZoFiwki1uGldGgUDaMhZSFBuVtc+fOm5q5bneukK2ysVAWYuNt4QuIrbJWikhJ+QrERtN1npnRDMqp0/n1f845zzkHvEHdsjLVYciajh0djWgzs3Na7Qt+qvExiE83ctbwxMQ4Yt/xp33c41HxNqR6/X3/1+rjiZwBnjrhPsOyHeEh4bYVx1IcF26yZSjhVcWpIm8pjhX5sJAzFR0RPhPWjLQudZ474U4jbWfBq/4KxipyUhWczSwbpXnUJv6EOT0psUW8lRxRRomgEWOZRTI4hCSa4CRWHVU0smSt2YuptKMNywUS2phpdHVqPeHuflD3/H2nsrYksw+8Q9V2WYvtwsUmND+WteABBDbg/MrSbb0gVYl7k0l4PYWGWWi8Ad98LtnbU9zEH4GaZ9d9a4faHchvu+7nkevmj6X4CS7N4m1KvTh5gKl1GL+GvX3okN6BhS+RcmdIKN6aEwAAATZJREFUKBV9krFLQlEUxn1iQ4tbf4C0BDWKBP0DKU2OUVhE1JJre1OLICiOLUkUUUNDWFOTY4sIEYSBu9RSUFT+vts7dZWLB373fOc75777vL4oEUdmrzeF3IFNWIAkPEITqr1a5p2ciLQwPEO6hqzqQDzg5dn0HDGcoriDJZgUXZo5HbsG/nCLegWW4Qws5hFlPX3DHPItFDj6J/ZueIMP9Hpcl3RCLi6UGt6w2TUT5DltmPaMT0+bHPG0YWAd8panTfrel27pgk7RuuQTqIOerOFdsGjrR5+Dv2GVWoTiVK90Cf1Qd8x7pT5Ociu6toOxZqg8ZPZFJyiOoO1UeOlgV9Ry35IEP36WdA9p1V68oRd5uja5L9L1MJ4Q+ke/nfG/bNuwLHsl16ZxhSi74nfZx9M1/8UQyStK3oJnORcAAAAASUVORK5CYII="></image>
+                        <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

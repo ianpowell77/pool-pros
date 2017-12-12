@@ -1,0 +1,37 @@
+.section {
+
+} // .section
+
+.section--filter {
+
+	.section {
+
+		&__hero {
+			height: 109px;
+			background: url('../img/water-image.jpg');
+			background-size: cover;
+			background-position: center;
+		}
+	}
+
+	@media(min-width: 1024px) {
+		.section {
+
+			&__hero {
+				height: 155px;
+			}
+		}
+	}
+} // .section--hero
+
+.section--cards {
+	padding-bottom: 38px;
+	
+	.section {
+
+	}
+
+	@media(min-width: 1024px) {
+		padding-top: 26px;
+	}
+} // .section--cards

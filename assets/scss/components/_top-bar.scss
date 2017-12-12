@@ -1,0 +1,38 @@
+.top-bar {
+	display: none;
+
+	@media(min-width: 1024px) {
+		display: block;
+		padding-top: 18px;
+		padding-bottom: 10px;
+		background: #083D8C;
+
+		&__nav {
+			margin: 0;
+
+			li {
+				position: relative;
+			}
+
+			li > a {
+				color: white;
+				font-size: 12px;
+			}
+
+			li:last-child {
+				&:after {
+				content: "";
+				position: absolute;
+				background: url('../img/action.svg');
+				background-size: contain;
+				background-position: center;
+				background-repeat: no-repeat;
+				width: 13px;
+				height: 10px;
+				bottom: 5px;
+				right: -17px;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="19px" viewBox="0 0 9 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="36" y="1" width="9" height="19" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-300.000000, -1934.000000)">
+            <g id="footer" transform="translate(-3.000000, 1851.000000)">
+                <g id="vecrtor-social-icons" transform="translate(267.000000, 82.000000)">
+                    <g id="facebook-icon">
+                        <image x="36" y="1" width="9" height="19" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAATCAYAAABC3CftAAAAAXNSR0IArs4c6QAAAXRJREFUKBVtkLtOw0AQRWfWE6+DIAVFikhpoACUkgKJr0G0fAAFPwMFVT4AKFNQ0JAOiZcEDa5AeSnxI97lrvESF5mVtePZM3d2L1trycd4nlH/9nm7taVPpcEH48QoUepFXr9GnqHZLNunBg+mSdY2CyIdMJmlLWT4GBNjGSiOiuVlFAZt31XOYE5E6wYxk4M6zdweGRD4dbUrNN/jZyLfeUYWC4XdoAKwfQA7Ua5bEYkgqe5e4NBHTGg0bh6kwTlpFmza5VVEbiiY0BgKBBb0cXAMkGt29KD+jiEbuMqdU+jh69QAJxZi3M4Uvu11t1sYZyG9PqJQ6GeyeIOh4RlTtmlJHRpjzyv8Uym+0CrglIIHQHJDNiUAQwAeinHta9egm5qkfGVRPrfrbKlCl893/jmrTLGET7ByBXiw9C9PU1LWZrCktOv/0CdwhfJ54sxcI+Ep7KzUn+O12tpUnPdVRDXRTq1OUtOKyfIADQHgJ+JV9y+AMo0/P5JbPAAAAABJRU5ErkJggg=="></image>
+                        <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

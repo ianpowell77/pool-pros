@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="15px" viewBox="0 0 18 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>twitter-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="0" y="3" width="18" height="15" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-264.000000, -1936.000000)">
+            <g id="footer" transform="translate(-3.000000, 1851.000000)">
+                <g id="vecrtor-social-icons" transform="translate(267.000000, 82.000000)">
+                    <g id="twitter-icon">
+                        <image x="0" y="3" width="18" height="15" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAPCAYAAADphp8SAAAAAXNSR0IArs4c6QAAAq9JREFUOBF1U0lrFEEUfvW6qmfJaiar0dGQBAUxhxxy8CIeJOAvELxIFG/m5MmLIHgSf4Cn3CQRPHkJKhgEUVwihhxiEoNCYCZxHJ2Z9PRWi696MpAJ5tHdVe/VV99bmz37VITY98GveCC4ACvMaEhzDrynDVIcIQwRyr+rgCa47LDUoAa5qY16hyIFSkqnH3k7r9Uq4Ci4yBiuE0chYdr/GG2AHjBGErl8TPy3JIvsaUju7mulNoWDE7ku9xF79aYMv7zSN08GmBGpCQL5DAy4yGDPGECGRKIeKqnu0OV9F43FOmIC3o72DsxgJpUFho5njB6TSn1VRk8jY8AI5NAqDAMZylm60kJiNU01iKX+Wax21nC9vAWRieaFIygNPa60Xoy1fh4qfZUL3ssFyxOHaKUBUNYRYjA6lLt5PKcKbHXFiK1K4UTx7+68i2LKujWUEpXGAuu0/0PbfnobnaCNlTjW0J4VO5cm84MGYuClPQ/qdf8BVaKvAaFK2NRI0VpT3ix7OBqLEwIhiGRh8f1Wcg2/bK/FpVr1pVJsBKnAB6VJeNDW3NuoQwUfA6q2bxzgU2eGbDPmypWgr1iuzwqOw03wUSsFTLOl4ORw95NsWzopBbPMVlY2SiNLy9uvuzrcU0cRWLuNcs+PoCPjrl6bPnu+mQVfWPphT4Fa73R2CJ7Mhs3Quv2PUFfBYs6N5a43SSwMvaoP1aoHUSQ3XYfnRdq9DRzXkrYdIrK9DMMY8vmhmcnx/s8Hj5EmmHGtKAANjgRNs/MBEO2PcRBHWsPEHX7PzbTNtRySwlnWHWCa3TB+fCVAvAC1OtAwJ7WwQ6DoPyONdPzOGbsLDjxVytpahced6VJ+4NhifaPUs+tHkibgNBW0m2A0cmrHYe5yeyr7Qhuz4AW1KPHSypFo/wACgTRGZsK0lQAAAABJRU5ErkJggg=="></image>
+                        <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

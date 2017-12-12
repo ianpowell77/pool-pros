@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>checked field vector</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="321" y="374" width="21" height="21" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-321.000000, -373.000000)">
+            <g id="name-field" transform="translate(0.000000, -1.000000)">
+                <g id="checked-field-vector">
+                    <image x="321" y="374" width="21" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAABcmlDQ1BJQ0MgUHJvZmlsZQAAKJF9kE0rRHEUxn8zQyNGs0BJFrcMCw0NCkvGQspiGqMMNneueauZ63bnCtkqG4spC7HxtvAFxFZZK0WkpHwFYqPpOtfQDMpTp/Pr/P/ndM4D7oBqGLmaEOR1y4yOh5WZ+KzifcJHPS246Va1gjEaiUwi+s4/9XaLy8nXPc6sv+//qmEhWdDAVSc8qBmmJTwi3LFsGQ4vCDebspTwisPpMm86nCjz/uefWHRM+ERY0TKq9LluhINaxswjh4gCiao/6SrO55a0r32cS3xJfXpKcptEOwWijBNGIcESWXJY9EjWwUquWE7T2KKxambTGUsZFQeSyoSu9QaV/lDfEDh+/vapUluU3YdfwVOs1BLbcLYBrfeVWmAP/OtwemGopvpZ8ki4Uyl4PobGODRdQf1cITXQX77EF4baR9t+6QTvFpSKtv1+YNulQ2l+gHO97M3XLI7uILYGk5ewswtdMts//wGBSGdAo5TDFQAAAjVJREFUOBGdlD9IVVEcxzOcAskGh3CQchElIoIw0IYaEv+BRCSGNEWDFEG6ipObNhQ0OYTyMNJIa1FEeCoFriJUUjQ0BIlBQ0tLn8/lnsO77ynvPX/w4Zx7zvf3vefe8zun5sQRcWXn5Q2m7sA1aIZa+AdfIA9z2xfufaQtiZriEcwuM/YCWmEBVuAzHEADtEAvDMAGjGDufIyMKYb3mXkOMzCOeD8qizpoGxmagj4YRvsmSKJpaviMibsIFoOgXEveAzTm3SZvSX1iyoSf/AGGqjHUwCD/Ic0kXCT/20kHCf/hzHEMTSbPla7DU59reYu77KZ0O1BpkHcK7Vt4l5qO0v/EeKsrtWwWmDhyU5jPRGr4nsGzMO8k+Xs0rnZQU+vQsqkoCgwtr+uY/SpIXKXfqamFnamzAlGmW8ZQ7S6c19STYmEnQWIP3AzPoa3AUOlfOK2pR89PCXGGzjIm/WGgQkPldXCgqWfZo5cE/2iOzmN4rXEVhua3wZ6mefAsx8DYuk2MabfgsE2J+oKOPnlNZ2GAFXmWY6TGjxj4A8W7HHWhQ/4l+u2QC8d0jYd9jAaDqJoWQ32s0R94DLtSYwR6mfRyOE5MkOT/HDM5WakdDL0fX8ET3uZZLhvpCicQatZF3oZJ0dQHRN6NOfBTRhF59A4NtP7DaXCFt9BuBmHG1EHE52i8bXyB5h69XbCwrUNN3OWr4ALGMPxJG6PENMxg7s3lxnVAE9TDb/gKechh9p22JP4D94jDB+/9jrUAAAAASUVORK5CYII="></image>
+                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

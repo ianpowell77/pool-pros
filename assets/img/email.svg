@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="13px" viewBox="0 0 15 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>email icon rasterized</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="19" y="18" width="15" height="13" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-110.000000, -666.000000)">
+            <g id="Dealer-Result-1" transform="translate(-23.000000, 469.000000)">
+                <g id="CTA" transform="translate(114.000000, 179.000000)">
+                    <g id="email-icon-rasterized">
+                        <image x="19" y="18" width="15" height="13" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAANCAYAAAB2HjRBAAAAAXNSR0IArs4c6QAAAPlJREFUKBWl0T8rRWEcB/DnihKLQunyAlglg/IODMKkmJgYeAHsMlD+LJSBUVEmm00WibIxEINSKBJyfX66xyDpdu+3PqfnOed8z3Oec3K1vfOzKaUO8rTSRA11ZHk2+OCOm6KTnHLBpJw8VGmtltPUWY7yBJO8UUpe3DTKTJQHWaGHS/7LuYvdbDIU5W0WOKWLXf7KlpNRvGCN9ShHpjigngGmeSfyyjgjtHDIGKk6DsXEax8zzCJ7dHLEFf1s0MB3spWzebPBPnPEf40txQJL7PBTNE6V/OfH3yvHA0tOJeVC7KePdvK00Uicz/b3afxEfP17rrnl7AsCLTOdsLPGwwAAAABJRU5ErkJggg=="></image>
+                        <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

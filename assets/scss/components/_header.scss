@@ -1,0 +1,153 @@
+.header {
+
+	height: 57px;
+	position: relative;
+	box-shadow: 0 2px 4.3px 0.7px rgba(0,0,0, .31);
+
+	&__logo {
+		width: 130px;
+		padding-top: 14px;
+	}
+
+	&__button {
+		font-size: 10px;
+		line-height: 1;
+		font-weight: bold;
+		text-transform: uppercase;
+		color: $color-primary;
+		padding: 3px;
+		border: 1px solid $color-primary;
+		border-radius: 3px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		padding-left: 17px;
+		position: relative;
+		left: 10px;
+		top: 14px;
+
+		&:before {
+			content: "";
+			background: url('../img/pin.svg');
+			background-size: contain;
+			background-position: center;
+			background-repeat: no-repeat;
+			position: absolute;
+			bottom: 4px;
+			left: 3px;
+			width: 10px;
+			height: 16px;
+		}
+	}
+
+	&__menu-btn {
+		background: white;
+		width: 54px;
+		height: 54px;
+		border-radius: 9999px;
+		box-shadow: 0 2px 6px 0px rgba(0, 0, 0, .58);
+		position: absolute;
+		top: 8px;
+		right: 10px;
+
+		&:before {
+			content: "";
+			background: url('../img/burger.png');
+			background-size: contain;
+			background-position: center;
+			position: absolute;
+			bottom: 16px;
+			left: 16px;
+			width: 20px;
+			height: 20px;
+		}
+	}
+
+	&__nav {
+		position: absolute;
+		background: white;
+		width: 110%;
+		border-top: 8px solid #0BC9C8;
+		border-bottom: 8px solid #0BC9C8;
+		top: 0;
+		left: 0;
+		z-index: 123;
+
+		.title {
+			padding-top: 39px;
+			padding-bottom: 22px;
+			text-transform: uppercase;
+			color: #01529E;
+			font-weight: bold;
+			font-size: 18px;
+		}
+
+		.close-button {
+			position: absolute;
+			top: 10px;
+			right: 30px;
+		}
+
+		li {
+			display: block;
+			float: none;
+		}
+
+		li > a {
+			background: #F6F6F6;
+			margin-bottom: 2px;
+			padding: 28px 0;
+			padding-left: 30px;
+			color: black;
+		}
+
+	}
+
+	@media(min-width: 1024px) {
+		height: auto;
+		padding: 35px 0;
+
+		&__logo {
+			width: 231px;
+			padding-top: 10px;
+		}
+
+		&__button {
+			float: right;
+			top: 0;
+			left: 0;
+			padding: 15px 44px;
+			font-size: 15px;
+			border-radius: 5px;
+			font-weight: normal;
+			text-transform: none;
+
+			&:before {
+				width: 12px;
+				height: 16px;
+				bottom: 17px;
+				left: 20px;
+			}
+		}
+
+		&__nav {
+			display: inline-block;
+			margin: 0;
+			float: right;
+			margin-right: 44px;
+			padding-top: 20px;
+
+			li+li {
+				margin-left: 50px;
+			}
+
+			li > a {
+				color: #083D8C;
+				font-size: 15px;
+			}
+		}
+
+		&__menu-btn {
+			display: none;
+		}
+	}
+}

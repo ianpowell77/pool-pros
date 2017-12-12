@@ -1,0 +1,177 @@
+.card {
+
+	box-shadow: 0 2px 6px 0.1px rgba(0,0,0, .31);
+	padding-top: 29px;
+
+	&__title {
+		font-size: 20px;
+		font-weight: 300;
+		line-height: 27px;
+		margin-bottom: 18px;
+		margin-top: 0;
+	}
+
+	&__button {
+		background: $color-primary;
+		color: white;
+		display: inline-block;
+		border-radius: 3px;
+		padding-top: 7px;
+		padding-bottom: 4px;
+		padding-left: 59px;
+		font-size: 10px;
+		text-align: right;
+		padding-right: 6px;
+		position: relative;
+		margin-bottom: 15px;
+
+		.large {
+			font-size: 18px;
+		}
+
+		&:before {
+			content: "";
+			background: #083D8C;
+			width: 30px;
+			height: 30px;
+			position: absolute;
+			bottom: 4px;
+			left: 6px;
+		}
+
+		&:after {
+			content: "";
+			background: url('../img/phone.svg');
+			background-size: contain;
+			background-position: center;
+			width: 14px;
+			height: 14px;
+			position: absolute;
+			bottom: 12px;
+			left: 14px;
+		}
+
+	}
+
+	&__helper-text {
+		font-size: 12px;
+		font-style: italic;
+		line-height: 16px;
+		margin-bottom: 16px;
+	}
+
+	&__email {
+		font-size: 15px;
+		line-height: 20px;
+		font-weight: bold;
+		letter-spacing: .5px;
+		border-radius: 3px;
+		border: 1px solid #02C7C6;
+		display: inline-block;
+		color: #083D8C;
+		padding-top: 13px;
+		padding-bottom: 13px;
+		padding-left: 48px;
+		padding-right: 17px;
+		position: relative;
+		margin-bottom: 28px;
+
+		&:before {
+			content: "";
+			background: url('../img/email.svg');
+			background-size: contain;
+			background-position: center;
+			width: 15px;
+			height: 13px;
+			position: absolute;
+			bottom: 16px;
+			left: 18px;
+		}
+	}
+
+	&__hours {
+		padding-bottom: 20px;
+
+		h3 {
+			font-weight: bold;
+		}
+
+		h3, p {
+			margin: 0;
+			font-size: 14px;
+			line-height: 27px;
+		}
+	}
+
+	&__service-content {
+		background: #f6f6f6;
+		padding-bottom: 20px;
+		padding-top: 20px;
+		overflow: hidden;
+	}
+
+	&__services {
+		margin: 0;
+
+		li {
+			list-style: none;
+			display: inline-block;
+			width: 50%;
+			float: left;
+			font-size: 12px;
+			line-height: 27px;
+		}
+	}
+
+	@media(min-width: 1024px) {
+
+		border-radius: 10px 10px 10px 10px;
+
+		&__title {
+			font-size: 26px;
+		}
+
+		&__button {
+
+			background: transparent;
+			color: black;
+
+			&:before {
+				content: "";
+				background: #216DDF;
+				width: 31px;
+				height: 31px;
+				border-radius: 100%;
+				position: absolute;
+				bottom: 14px;
+				left: 14px;
+			}
+
+			&:after {
+				content: "";
+				background: url('../img/phone.svg');
+				background-size: contain;
+				background-position: center;
+				width: 14px;
+				height: 14px;
+				position: absolute;
+				bottom: 22px;
+				left: 22px;
+			}
+
+			.large {
+				font-size: 26px;
+			}
+
+			.large-hide {
+				display: none;
+			}
+		}
+
+		&__service-content {
+			border-radius: 0 0 10px 10px;
+		}
+
+	}
+
+}

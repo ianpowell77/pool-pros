@@ -1,0 +1,28 @@
+body, html, h1, h2, h3, p, span, a, li, div {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
+//fixed endless white space on right side and bottom
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+body
+{
+    overflow-x: hidden; 
+}
+
+.small-hide {
+	display: none;
+
+	@media(min-width: 1024px) {
+		display: inline;
+	}
+}

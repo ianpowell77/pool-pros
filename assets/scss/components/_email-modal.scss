@@ -1,0 +1,94 @@
+.email-modal {
+	background: green;
+	padding: 0;
+	height: auto;
+
+	&__top {
+		background: #083D8C;
+		padding: 10px;
+		color: white;
+
+		span {
+			text-transform: uppercase;
+		}
+
+		h2 {
+			font-size: 24px;
+			color: white;
+		}
+	}
+
+	&__main {
+		padding: 10px;
+
+		.phone-input {
+			width: 75%;
+		}
+
+		p {
+			font-size: 13px;
+			padding-top: 18px;
+		}
+
+		label, input {
+			display: block;
+		}
+
+		label {
+			font-size: 15px;
+			font-weight: bold;
+			color: #616161;
+			margin-bottom: 14px;
+
+			position: relative;
+
+			&:before {
+				content: "";
+				background: url('../img/empty-field.svg');
+				background-size: contain;
+				background-position: center;
+				position: absolute;
+				top: 0;
+				right: 0;
+				width: 20px;
+				height: 20px;
+			}
+		}
+
+		label:nth-last-child(3) {
+			&:before {
+				content: "";
+				background: url('../img/empty-field.svg');
+				background-size: contain;
+				background-position: center;
+				position: absolute;
+				top: 0px;
+				right: 25%;
+				width: 20px;
+				height: 20px;
+			}
+		}
+
+		input {
+			height: 49px;
+		}
+
+		textarea {
+			height: 84px;
+		}
+
+		input, textarea {
+			width: 100%;
+			border: 1px solid #D8D8D8;
+			margin-top: 10px;
+		}
+	}
+}
+
+.reveal-modal {
+	padding: 0;
+	width: 95%;
+	left: 50%;
+	transform: translateX(-50%);
+	height: auto;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>empty field indicator vector</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="225" y="0" width="22" height="22" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-252.000000, -464.000000)">
+            <g id="Phone-Number-field" transform="translate(27.000000, 464.000000)">
+                <g id="empty-field-indicator-vector">
+                    <image x="225" y="0" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAABcmlDQ1BJQ0MgUHJvZmlsZQAAKJF9kE0rRHEUxn8zQ8TIAiVZ3DKskJfC0swsJmWhMcpgc++dOzNq5s7tzhWyVTYWykJsvC18AbFV1koRKSlfgdhous41NF7KU6fz6/z/53TOA/6Qalm5qj7Im44dj0WU6eSMUvNIkDpa8KOoetEKT0yMI/rKP/V6g8/LVz3erL/v/6o+ZRR18NUKD+mW7QiPCncsOpbHKeFmW5YSXvI4U+Z1j7Uy7338ScSjwsfCip5Vpc93LdytZ+08cogopH37k/nG+dyC/rmPd0nQMKcmJbdJtFMkTowIChoLzJPDoUeyCY6x5HhN0YK1bM9nso4SFgcMZczUe7uVgb7+YfD8/O1TpVaQ3UdeILBRqWlbcLoGrXeVWmgXGlfh5NxSbfWjFJDwp9PwdAQNSWi6hLrZYnpwoHxJMALVD6773Ak1m1DacN23fdctHUjzPZyZZW8+Z3F4C4kVGL+A7R3oktmNc+9tPmc2Z2UGBAAAAdBJREFUOBG1lb0vQ1EYh28NBglDJyxmElXidtTSpLpIJNJRF1Nj6F/QiX/AICZLjUgklpI0WqMmRCXMFkwdNAwWnl+dc33UR7XXmzy5p+e+73PftuecG3C+iWKx2M+tRUjABARBUYNTOISteDx+x7UpAp9nEPYytwIZuIBdOIFbUAxABBZgFDYgxwPqXL34IEY6zJ19eIQsyUde5hcD8qeZXoMemCP/yqZ12QFJI4yPDe5vUtWZHNfWGYduOY2OmdDXPwOJlyh45tpyUC/PJkzBOPV12/EqEw+Q+auUGnWuRvSfyCGXE+Bp+jOuIUFCiWvbgStGsVbLkDpOw3mnUhzqvCQXpCVOwg74FXIlJQ6B1qlfIVdIYu2oG7+sxhWU+F9CYu39QR/tctUkrsKkj2K5qhIXIOWjWK6CxHkIs7i1HTsK4wgjyduzQidUFCIs8qd27Ei7qdNSK+PIqmNFDnQQretDm6FaOeR6Pd004Ik6NsuwB8utdm46lXQeotRdcnVsx9rnmojBDFQo0PjHMDkVklQTs1IVNX5jDWyQ3MfYvpp0oGyDiu3u1Dp1IQVjYF9N94y9aBLbOzxAAp18s6Dz5P3LVGv/APJ0aR/Ix7d4AT/ojwzEwUPKAAAAAElFTkSuQmCC"></image>
+                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
